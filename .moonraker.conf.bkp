@@ -35,7 +35,7 @@ path = ~/mainsail
 
 [wled lights]
 type = http
-address = wled-v0-1069.lan
+address = wled-v0-1069
 initial_red = 0
 initial_green = 0.7
 initial_blue = 0.5
